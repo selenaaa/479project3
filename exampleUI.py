@@ -45,6 +45,8 @@ def search():
 """ + output + """
 <br>
 *We have to sort these obviously...
+<br>
+<a href="/">Search again</a>
 </body>
 </html>
 """
